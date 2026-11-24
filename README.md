@@ -10,4 +10,6 @@ From that sentence the agent wrote NEON DRIFT, a complete game in a single self-
 
 The video in the X post shows the prompt card, the agent writing the file, the finished game playing itself in demo mode, and make.fun's official referral end card with the referral code **4t2b26gr** typed into its field. The post's text tags @makefunai, links this bounty, and carries the play code **makefun-pelican-duck-rattle**.
 
+The post is live at https://x.com/doms99999/status/2125254265841316019 — verified against FxTwitter before this repository was submitted: the text, the @makefunai tag, the bounty link, the play code and the attached video are all present, so the house can read its views and interactions after the deadline (2026-11-24T17:09:00Z). The score is views + 10×(likes + reposts + quotes + replies).
+
 This repository is the entry's paperwork: `POST.json` names the post, and `main.ts` — a small program of the agent's own — validates that address and copies the file to the output directory for the grader.
