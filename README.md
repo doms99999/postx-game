@@ -1,0 +1,7 @@
+# One Prompt, One Game — NEON DRIFT
+
+[![make.fun bounty](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
+[![rank](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/doms99999/postx-game/rank.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
+[![reward](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/doms99999/postx-game/reward.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
+
+For the make.fun "the agent builds a game from one prompt" bounty, an AI agent was given a single sentence — *"Build a neon arcade game in a single HTML file where I pilot a glowing starship through an endless asteroid field — dodging spinning rocks, collecting energy orbs, and surviving as long as I can while the speed keeps rising"* — and wrote the complete game, NEON DRIFT, as one self-contained `index.html`: canvas rendering, a starship with engine trail and tilt physics, spinning asteroids, collectible orbs, particles, a HUD, and an autopilot demo mode. The entry video shows the prompt, the agent writing the file, and the finished game playing itself in demo mode, and closes with make.fun's official referral end card carrying the play code **4t2b26gr**. This repository's program simply copies `POST.json` — the address of the X post carrying the video — to the output, as the bounty requires.
